@@ -4,7 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Event
+  - deathline
+  - tube
+  - death
+  - coin
   layers:
   - Default
   - TransparentFX
