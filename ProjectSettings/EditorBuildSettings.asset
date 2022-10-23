@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/mighty bird.unity
+    guid: b3abcdfa2fab743749eb53b52c2102f2
+  - enabled: 1
+    path: Assets/might bird-store.unity
+    guid: b4b3edc25446340329f5b08c87bc9e4c
   m_configObjects: {}
